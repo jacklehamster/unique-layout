@@ -2,7 +2,7 @@
   "name": "unique-layout",
   "module": "src/index.ts",
   "description": "When multiple components are sharing the same layout, we need to deactivate components outside of the top one.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "bun",
     "bunjs",
