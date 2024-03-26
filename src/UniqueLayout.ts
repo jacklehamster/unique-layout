@@ -1,7 +1,7 @@
 export class UniqueLayout<E> {
   #layouts: Record<string, E[]> = {};
 
-  constructor(private setActive: (elem: E, visible: boolean) => void) {
+  constructor(private setActive: (elem: E, active: boolean) => void) {
   }
 
   registerLayout(uid: string, elem: E) {
