@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacklehamster/unique-layout.git"
+    "url": "git@github.com:jacklehamster/unique-layout.git"
   },
   "homepage": "https://jacklehamster.github.io/unique-layout/",
   "author": {
