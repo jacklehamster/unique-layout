@@ -1,9 +1,5 @@
-// /Users/vincent/unique-layout/example/node_modules/bun-template/dist/index.js
-class e {
-  static hello() {
-    return "Hello World!";
-  }
-}
+// src/index.ts
+var src_default = undefined;
 export {
-  e as Hello
+  src_default as default
 };
