@@ -1,8 +1,8 @@
 {
-  "name": "bun-template",
+  "name": "unique-layout",
   "module": "src/index.ts",
-  "description": "Bun template for creating projects using bunjs",
-  "version": "1.0.47",
+  "description": "When multiple components are sharing the same layout, we need to deactivate components outside of the top one.",
+  "version": "1.0.0",
   "keywords": [
     "bun",
     "bunjs",
@@ -15,9 +15,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:jacklehamster/bun-template.git"
+    "url": "https://github.com/jacklehamster/unique-layout.git"
   },
-  "homepage": "https://jacklehamster.github.io/bun-template/",
+  "homepage": "https://jacklehamster.github.io/unique-layout/",
   "author": {
     "name": "Jack Le Hamster",
     "email": "jacklehamster@gmail.com"
@@ -46,18 +46,18 @@
   ],
   "devDependencies": {
     "@dobuki/auto-publish": "^1.0.7",
-    "@types/bun": "^1.0.4",
-    "@types/jest": "^29.5.6",
+    "@types/bun": "^1.0.11",
+    "@types/jest": "^29.5.12",
     "@types/mocha": "^10.0.3",
-    "@types/react": "^18.2.21",
-    "bun": "^1.0.25",
-    "bun-types": "^1.0.2",
+    "@types/react": "^18.2.72",
+    "bun": "^1.0.35",
+    "bun-types": "^1.0.35",
     "jest": "^29.7.0",
     "package-name-fixer": "^1.0.9",
-    "prettier": "^3.0.3",
+    "prettier": "^3.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

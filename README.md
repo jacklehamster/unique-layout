@@ -1,10 +1,11 @@
-# bun-template
+# unique-layout
 
-[![npm version](https://badge.fury.io/js/bun-template.svg)](https://www.npmjs.com/package/bun-template)
+[![npm version](https://badge.fury.io/js/unique-layout.svg)](https://www.npmjs.com/package/unique-layout)
 
-Bun template for creating projects using bunjs
+When multiple components are sharing the same layout, we need to deactivate components outside of the top one.
 
-![](https://jacklehamster.github.io/bun-template/icon.png)
+![](https://jacklehamster.github.io/unique-layout/icon.png)
+
 ## Install bun
 
 https://bun.sh/
@@ -20,8 +21,8 @@ curl -fsSL https://bun.sh/install | bash
 
 ## Run example
 
-[https://jacklehamster.github.io/bun-template/example/](https://jacklehamster.github.io/bun-template/example/)
+[https://jacklehamster.github.io/unique-layout/example/](https://jacklehamster.github.io/unique-layout/example/)
 
 ## Github Source
 
-[https://github.com/jacklehamster/bun-template/](https://github.com/jacklehamster/bun-template/)
+[https://github.com/jacklehamster/unique-layout/](https://github.com/jacklehamster/unique-layout/)

@@ -1,4 +1,4 @@
-// /Users/vincent/bun-template/example/node_modules/bun-template/dist/index.js
+// /Users/vincent/unique-layout/example/node_modules/bun-template/dist/index.js
 class e {
   static hello() {
     return "Hello World!";
